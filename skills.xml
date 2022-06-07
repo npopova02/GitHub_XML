@@ -1,0 +1,10 @@
+
+<Person>
+  <Skills>
+          <Skill1> Linux GitBash </Skill1>
+          <Skill2> Mobile testing </Skill2>
+          <Skill3> Dev Tools </Skill3>
+	  <Skill4> SQL </Skill4>
+	  <Skill5> Postman </Skill5>
+  </Skills>
+</Person>

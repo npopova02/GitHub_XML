@@ -1,0 +1,9 @@
+<Person>
+  <Preferences>
+          <Film> Достучаться до небес </Film>
+          <Series> нет </Series>
+          <Food> Борщ </Food>
+	  <Season> Лето </Season>
+	  <Country> Индия </Country>
+  </Preferences>
+</Person>
