@@ -1,1 +1,15 @@
-
+<bug_report>
+  <id> 1 </id>
+  <summary> No login with valid username/password </summary> 
+  <severity> Blocker </severity>
+  <priority> High </priority>
+  <status> Open </status>
+  <precondition>  Valid data: Username- standard_user, password-secret_sauce </precondition>
+  <steps_to_reproduce>
+     <1> Go to www.saucedemo.com </1>
+     <2> Enter valid Username/password combination </2>
+     <3> Click [LOGIN] button </>  
+  </steps_to_reproduce>
+  <actual_result> Login is not sucssesfull. Error message "Epic sadface: Username and password do not match any user in this service" appears </actual_result>
+  <expected_result> Login is sucssesfull. The home page of the site appears </expected_result>
+</bug_report>
